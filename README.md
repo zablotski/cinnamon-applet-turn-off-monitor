@@ -1,2 +1,2 @@
 # cinnamon-applet-turn-off-monitor
-Turn off monitor Applet for Cinnamon Desktop
+Turn Off Monitor Applet for Cinnamon Desktop
